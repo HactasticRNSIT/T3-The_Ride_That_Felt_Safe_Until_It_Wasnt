@@ -1,0 +1,6 @@
+driver_id,name,hermesh_score,safesignal_score,platform_rating
+D001,Driver A,88,91,92
+D002,Driver B,72,65,71
+D003,Driver C,41,55,48
+D004,Driver D,80,78,85
+D005,Driver E,55,60,70
